@@ -13,7 +13,7 @@
 
 | [<img src="https://github.com/yogurt-31/yogurt-31/blob/main/Thumbnail/fable-thumbnail.png" width="300">](https://fork-sundae-429.notion.site/Fable-14c62626b70680c983e4c4c56cfb6c18) | [<img src="https://github.com/yogurt-31/yogurt-31/blob/main/Thumbnail/mochi-thumbnail.png" width="300">](https://fork-sundae-429.notion.site/1b462626b70680da8df8cd7cbd0798bc?pvs=74) | [<img src="https://github.com/yogurt-31/yogurt-31/blob/main/Thumbnail/projectspace-thumbnail.png" width="300">](https://fork-sundae-429.notion.site/1d462626b706806c88a9f52c5ba9bf9f) |
 |:---:|:---:|:---:|
-| Fable | 모찌나간당 | 별의별 짓 : 우리 집은 지구인데요 |
+| <b>Fable | <b>모찌나간당 | <b>별의별 짓 : 우리 집은 지구인데요 |
 
 <br>
 
@@ -21,8 +21,6 @@
 
 이미지를 눌러 프로젝트의 상세 정보를 확인할 수 있습니다.<br>
 
-| Preparing... | Preparing... | Preparing... |
+| [<img src="https://github.com/yogurt-31/yogurt-31/blob/main/Thumbnail/efp-thumbnail.png" width="300">](https://fork-sundae-429.notion.site/Escape-From-Pressure-14962626b706806da946ed19825c752e?pvs=74) | [<img src="https://github.com/yogurt-31/yogurt-31/blob/main/Thumbnail/eow-thumbnail.png" width="300">](https://fork-sundae-429.notion.site/End-Of-Wish-14c62626b70680e98fced83cffe3909a?pvs=74) | [<img src="https://github.com/yogurt-31/yogurt-31/blob/main/Thumbnail/runcatch-thumbnail.png" width="300">](https://fork-sundae-429.notion.site/Run-Catch-14962626b70680e3a0b0cf5200630178)  |
 |:---:|:---:|:---:|
-| Escape From Pressure | End Of Wish | Run! Catch! |
-
-
+| <b>Escape From Pressure | <b>End Of Wish | <b>Run! Catch! |
