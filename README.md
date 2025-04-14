@@ -3,7 +3,9 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:EEFF00,100:aaffa9&height=200&section=header&text=Hello,%20JSY%20World!&fontSize=50" />
 
 ## 개발부터 출시까지 모든 과정을 경험해본
-클라이언트 프로그래머 장서윤입니다.
+클라이언트 프로그래머 장서윤입니다.<br>
+
+[[English]](https://github.com/yogurt-31/yogurt-31/blob/main/README_en.md)
 
 <br>
 
