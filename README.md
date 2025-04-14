@@ -11,5 +11,6 @@
 
 이미지를 눌러 프로젝트의 상세 정보를 확인할 수 있습니다. 
 
-| [![Fable 이미지](https://github.com/yogurt-31/yogurt-31/blob/main/Thumbnail/fable-thumbnail.png)](https://github.com/username/repository-name) |
-|:---:|
+| <img src="https://github.com/yogurt-31/yogurt-31/blob/main/Thumbnail/fable-thumbnail.png" width="300"> | <img src="https://github.com/yogurt-31/yogurt-31/blob/main/Thumbnail/mochi-thumbnail.png" width="300"> | Preparing... |
+|:---:|:---:|:---:|
+| Fable | 모찌나간당 | 별의별 짓 : 우리 집은 지구인데요 |
