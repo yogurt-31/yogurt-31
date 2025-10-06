@@ -3,15 +3,16 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:EEFF00,100:aaffa9&height=200&section=header&text=Hello,%20JSY%20World!&fontSize=50" />
 
 ## A developer with experience from development to launch
-I’m Seoyoon Jang, a game client programmer.<br>
+I’m Seoyun Jang, a game client programmer.<br>
 
 [[한국어]](https://github.com/yogurt-31/yogurt-31/blob/main/README.md)
 
 <br>
 
-I am a developer who connects game content and players in the most direct way possible.<br>
-To deliver an enjoyable experience to users, I actively communicate and continuously improve content based on feedback.<br>
-As I move forward on the path of new challenges, I am ready to build the future together with players, leveraging my strengths.<br>
+I have not only developed my programming skills but also gained knowledge in art and game design,<br>
+which has strengthened my ability to collaborate effectively with my teammates.<br>
+By actively communicating with players, I have continuously improved content to deliver enjoyable experiences.<br>
+Moving forward, I aim to keep taking on new challenges and create games that provide players with the best possible experience.<br>
 
 
 <br>
